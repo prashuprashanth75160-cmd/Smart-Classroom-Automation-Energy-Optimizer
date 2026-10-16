@@ -1,0 +1,6 @@
+{
+  "name": "DSU SmartClass Automation & Energy Optimizer",
+  "description": "Smart Classroom Automation and Energy Optimization platform for DSU Code Clash 2.0 featuring real-time CCTV occupancy tracking, daylight dimming, fan/AC coordination, projection mode, and weekly energy savings analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
